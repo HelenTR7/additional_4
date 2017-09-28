@@ -58,5 +58,5 @@ module.exports = function multiply(first, second) {
   //alert("poluhilas stroka: "+mult_str);
 
   return mult_str;
-}
+
 }
